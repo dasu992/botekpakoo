@@ -177,9 +177,9 @@ try {
         }
                    
         //TIME
-        const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-        const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-        const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+        const xtime = moment.tz('Asia/Colombo').format('HH:mm:ss')
+        const xdate = moment.tz('Asia/Colombo').format('DD/MM/YYYY')
+        const time2 = moment().tz('Asia/Colombo').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌌`
  }
@@ -533,7 +533,7 @@ var xeonlod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
+"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 ...📍"
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
@@ -4147,8 +4147,8 @@ case 'tomp4': case 'tovideo': {
   case 'dare':
               const dare =[
     "eat 2 tablespoons of rice without any side dishes, if it's dragging you can drink",
-    "spill people who make you pause",
-    "call crush/pickle now and send ss",
+    "ඇටේ ගලක් උඩ තියලා තලලා 4ටෝ එකක් දාහම්📍",
+    "කෑල්ලගෙ නම්බරෙ දීපන්📍",
     "drop only emote every time you type on gc/pc for 1 day.",
     "say Welcome to Who Wants To Be a Millionaire! to all the groups you have",
     "call ex saying miss",
